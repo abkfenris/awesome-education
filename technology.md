@@ -6,6 +6,8 @@
   - [Python](#python)
   - [JavaScript](#javascript)
   - [SQL](#sql)
+  - [Haskell](#haskell)
+  - [Swift](#swift)
 
 ## General
 - Learning
@@ -39,6 +41,10 @@
   - [Dive Into Python 3](http://www.diveintopython3.net) - __Book__
   - [Python For Engineers](http://pythonforengineers.com) - _Paid_ __Course__ - Focused on real world practical projects that engineers may do like Software Carpentry is for scientists.
   - [Practical Numerical Methods in Python](http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about) - _Free_ __Course__ - Course focusing on mathematical and scientific methods.
+  - [The Hacker's Guide to Python](https://julien.danjou.info/books/the-hacker-guide-to-python/) - _Paid_ __Book__ - Intermediate level Python
+  - [Pycubator](http://pycubator.com/index.html) - __Slides__
+  - [Scipy Lecture Notes](http://www.scipy-lectures.org) - Basic Python up through the scientific stack.
+  - [Think Python](http://www.greenteapress.com/thinkpython2/index.html) - _Free or Paid_ __Book__
 - Tools
   - [Anaconda](https://www.continuum.io/downloads) - __Mac, PC, Linux__ - Python distribution with many of the core scientific tools preinstalled.
   - [Jupyter](https://jupyter.org) - __Mac, PC, Linux__ - Formally known as iPython, Project Jupyter and Jupyter notebooks make for some really effective enhancements to the Read-Eval-Print-Loop. Especially useful for the sciences where your methods and results sections can actually work with the data you've produced. Included as part of Anaconda.
@@ -52,9 +58,13 @@
 ### JavaScript
 - Learning
   - [Eloquent JavaScript](http://eloquentjavascript.net) - _Free or Paid_ __Book__ - Basic JavaScript development.
+  - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) - _Free or Paid_ __Book__ -
+  - [Speaking JavaScript](http://speakingjs.com) - _Free or Paid_ __Book__ - Designed for programmers transitioning from other languages
+  - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - __Reference__
   - [SurviveJS](http://survivejs.com) - _Free or Paid_ __Book__ - Front end development using [React](https://facebook.github.io/react/), [webpack](https://webpack.github.io) and other modern tools.
   - [Exploring ES6](http://exploringjs.com/es6/) - _Free or Paid_ __Book__ - Changes in the latest version of JavaScript.
 - Tools
+
   - [React](https://facebook.github.io/react/)
 
 ### SQL
@@ -62,3 +72,18 @@
   - [Mode Analytics - SQL School](https://sqlschool.modeanalytics.com)
 - Tools
   - [PostgreSQL Exercises](http://pgexercises.com/questions/date/)
+  - [Postgres Guide](http://www.postgresguide.com)
+  - [SQL Style Guide](http://www.sqlstyle.guide)
+
+### Haskell
+- Learning
+  - [Learn You a Haskell for Greater Good!](http://learnyouahaskell.com) - _Free or Paid_ __Book__ - A beginners guide to programming in Haskell for programmers comfortable in another language.
+  - [Learning Haskell](http://learn.hfm.io)
+- Tools
+
+### Swift
+- Learning
+  - [Teaching App Development with Swift](https://swifteducation.github.io/teaching_app_development_with_swift/) - Also available via [iTunes U](https://itunes.apple.com/us/course/app-development-teaching-swift/id1003406963)
+    - [A bit about the course](https://medium.com/ios-os-x-development/apple-has-published-a-great-free-learn-to-code-course-for-swift-on-github-feb5e4d70691#.wcq46ma4z)
+  - [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - From Stanford
+- Tools

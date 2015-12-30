@@ -13,6 +13,7 @@ If you are unsure about where to make a change but still have a suggestion you c
 If all that is too much, feel free to email any suggestions to akerney@bridgtonacademy.org.
 
 ## Guidelines
+- First figure out where it should go, what subject, and is it a learning resource or is it a tool? If you don't know then it is a great thing to create an [Issue](https://github.com/abkfenris/awesome-education/issues/new) for.
 - Preferably one (top level) bullet per pull request.
 - If there is a good tutorial for using a tool, a blog post describing how it is awesome for teaching or learning, or even just your blurb of words in support place that as a sub-bullet.
 - Style:
