@@ -10,6 +10,7 @@ A curated list of resources, services, and apps for teaching and learning.
 - [Mathematics](mathematics.md)
 - [Science](science.md)
 - [Technology](technology.md)
+- [Learning Styles](learning-styles.md)
 
 For resources, services, apps and domain specific tools that apply for those seeking to add extra letters around their name (B.A., PhD...) look under [higher learning](higher/). Also more advanced courses may find useful things there.
 
