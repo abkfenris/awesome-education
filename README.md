@@ -2,6 +2,8 @@
 
 A curated list of resources, services, and apps for teaching and learning.
 
+Got something awesome to share? Sweet, see the [Contributing Guide](CONTRIBUTING.md)
+
 ## Subjects:
 - [Arts](arts.md)
 - [English](english.md)
