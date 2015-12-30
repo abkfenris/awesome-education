@@ -3,6 +3,7 @@
 A curated list of resources, services, and apps for teaching and learning.
 
 ## Subjects:
+- [Arts](arts.md)
 - [English](english.md)
 - [History](history.md)
 - [Languages](languages.md)
@@ -27,7 +28,8 @@ __Tools__ contains services, apps, and specific tools that help learning whether
 - [Data Storage](#data-storage)
 
 ### Classroom/Course Management
-- [Schoology](https://www.schoology.com) - _Free, paid administrative tools_  __Web, iOS__ - Learning Management System including assignment turn-in and comments, quizes, and gradebook.
+- [Casper Focus](http://www.jamfsoftware.com/products/casper-focus/) - _Paid part of [JAMF Casper Suite](http://www.jamfsoftware.com/products/casper-suite/)_ __iOS__ - Teacher focused Mobile Device Management tool. Allows a teacher to lock a students iOS device down to a single app or webpage, can prompt them to AirPlay, or clear a passcode if needed.
+- [Schoology](https://www.schoology.com) - _Free, paid administrative tools_  __Web, iOS__ - Learning Management System including assignment turn-in and comments, quizzes, and gradebook.
 
 ### Organization/Note Taking
 - [Evernote](https://evernote.com) - _Free, paid for more storage_ __Web, iOS, Android, Mac, PC__ - Note taking and document organization with syncing. Storage limits are based on amount uploaded per month, not total stored. Very handy webpage clipping feature, and email to note.

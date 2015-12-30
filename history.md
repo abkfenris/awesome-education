@@ -1,5 +1,13 @@
 # History
 
-## Learning
+## US
+- Learning
+- Tools
 
-## Tools
+## European
+- Learning
+- Tools
+
+## World
+- Learning
+- Tools
