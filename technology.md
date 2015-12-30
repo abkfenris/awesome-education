@@ -30,7 +30,7 @@
 
 ### Python
 - Learning
-  - [MITx 6.00.1x](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6) - _Free, Paid certificate of completion_ __Web Course__ - Great online course run by MIT and edX on the basics of Computer Science, taught using Python.
+  - [MITx 6.00.1x](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6) - _Free, Paid certificate of completion_ __Web Course__ - Great online course run by MIT and edX on the basics of Computer Science, taught using Python. [Older Version on Open CourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm)
   - [Interactive Python](http://interactivepython.org) - __Web, Book__ - Interactive programming book that can be customized and monitor class progress.
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - _Donationware_ __Book__ - Python scripting without much of the computer science theory
   - [Intermediate Python](http://book.pythontips.com/en/latest/) - _Donationware_ __Book__ - Bridge between beginner courses and more advanced but still generalized Python features.
@@ -38,6 +38,7 @@
   - [Python Practice Book](http://anandology.com/python-practice-book/index.html) -
   - [Dive Into Python 3](http://www.diveintopython3.net) - __Book__
   - [Python For Engineers](http://pythonforengineers.com) - _Paid_ __Course__ - Focused on real world practical projects that engineers may do like Software Carpentry is for scientists.
+  - [Practical Numerical Methods in Python](http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about) - _Free_ __Course__ - Course focusing on mathematical and scientific methods.
 - Tools
   - [Anaconda](https://www.continuum.io/downloads) - __Mac, PC, Linux__ - Python distribution with many of the core scientific tools preinstalled.
   - [Jupyter](https://jupyter.org) - __Mac, PC, Linux__ - Formally known as iPython, Project Jupyter and Jupyter notebooks make for some really effective enhancements to the Read-Eval-Print-Loop. Especially useful for the sciences where your methods and results sections can actually work with the data you've produced. Included as part of Anaconda.
@@ -58,5 +59,6 @@
 
 ### SQL
 - Learning
+  - [Mode Analytics - SQL School](https://sqlschool.modeanalytics.com)
 - Tools
   - [PostgreSQL Exercises](http://pgexercises.com/questions/date/)
