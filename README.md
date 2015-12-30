@@ -1,4 +1,4 @@
-# awesome-education
+# Awesome Education
 
 A curated list of resources, services, and apps for teaching and learning.
 
@@ -13,8 +13,8 @@ A curated list of resources, services, and apps for teaching and learning.
 For resources, services, apps and domain specific tools that apply for those seeking to add extra letters around their name (B.A., PhD...) look under [higher learning](higher/).
 
 ## General:
-- [Classroom/Course Management](#classroom/course-Management)
-- [Organization/Note Taking](#organization/note-taking)
+- [Classroom/Course Management](#classroomcourse-management)
+- [Organization/Note Taking](#organizationnote-taking)
 - [Data Storage](#data-storage)
 
 ### Classroom/Course Management
