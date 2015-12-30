@@ -7,12 +7,16 @@
 
 --------------
 
-## Calculators and Other General Tools
+## Calculators
 - [Desmos](https://www.desmos.com) _Free_ __Web, iOS, Android__ - 2D Graphing Calculator
 
 ## Algebra
+- Learning
+- Tools
 
 ## Geometry
-- [Euclidea: Geometric Construction Game](http://www.euclidea.xyz) - _Free_ __Web, iOS__ - Game that teaches geometric relationships between angles and shapes
+- Learning
+- Tools
+  - [Euclidea: Geometric Construction Game](http://www.euclidea.xyz) - _Free_ __Web, iOS__ - Game that teaches geometric relationships between angles and shapes
 
 ## Calculus

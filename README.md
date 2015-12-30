@@ -12,7 +12,16 @@ A curated list of resources, services, and apps for teaching and learning.
 
 For resources, services, apps and domain specific tools that apply for those seeking to add extra letters around their name (B.A., PhD...) look under [higher learning](higher/).
 
-## General:
+Awesome things are broken up into __Learning__ and __Tools__.
+
+__Learning__ includes courses, books, resources, and websites that have a good coverage of the subject. Both resources for teaching with and those for self learning may show up here.
+
+__Tools__ contains services, apps, and specific tools that help learning whether it is happening in a classroom or independently.
+
+## Learning:
+- [KhanAcademy](https://www.khanacademy.org) - _Free_ __Web, iOS__ - Courses in many different subjects. Can be used solo, or be used to teach a class, with tools for a teacher to monitor the class's progress.
+
+## Tools:
 - [Classroom/Course Management](#classroomcourse-management)
 - [Organization/Note Taking](#organizationnote-taking)
 - [Data Storage](#data-storage)

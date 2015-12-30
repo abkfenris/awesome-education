@@ -6,9 +6,17 @@
 - [SQL](#sql)
 
 ## General
+- Learning
+- Tools
 
 ## Python
+- Learning
+- Tools
 
 ## JavaScript
+- Learning
+- Tools
 
 ## SQL
+- Learning
+- Tools
