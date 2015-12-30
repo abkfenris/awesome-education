@@ -3,7 +3,7 @@
 A curated list of resources, services, and apps for teaching and learning.
 
 ## Subjects:
-- [Mathmatics](mathmatics.md)
+- [Mathematics](mathematics.md)
 - [Technology](technology.md)
 
 ## General:
