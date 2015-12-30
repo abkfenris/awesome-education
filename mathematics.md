@@ -13,6 +13,6 @@
 ## Algebra
 
 ## Geometry
-- [Euclidea: Geometric Construction Game](http://www.euclidea.xyz) __Web, iOS__ - Game that teaches geometric relationships between angles and shapes
+- [Euclidea: Geometric Construction Game](http://www.euclidea.xyz) - _Free_ __Web, iOS__ - Game that teaches geometric relationships between angles and shapes
 
 ## Calculus
