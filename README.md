@@ -56,3 +56,7 @@ __Tools__ contains services, apps, references, and specific tools that help lear
 - PDF Tools
   - [PDF Expert](https://readdle.com/products/pdfexpert5) - __iOS, Mac__
   - [iAnnotate](http://www.iannotate.com) - __iOS__
+- [Lucidpress](https://www.lucidpress.com) - _Free for Education_ __Web__ - Web based Page layout for print and web. Can sign on with Google Apps account.
+  - [Free EDU Upgrade](https://www.lucidpress.com/pages/usecase/education)
+- [Lucidchart](https://www.lucidchart.com) - _Free for Education_ __Web__ - Web based charting. Can sign on with Google Apps account.
+  - [Free EDU Upgrade](https://www.lucidchart.com/pages/usecase/education)
