@@ -24,6 +24,7 @@ __Tools__ contains services, apps, references, and specific tools that help lear
 
 ## Learning:
 - [KhanAcademy](https://www.khanacademy.org) - _Free_ __Web, iOS__ - Courses in many different subjects. Can be used solo, or be used to teach a class, with tools for a teacher to monitor the class's progress.
+- [Schoolnotes Portal](https://schoolnotes.xyz) - _Free_ __Web__ - Courses written by current students, and curated by teachers. Regularly updated content, with new courses every few weeks.
 
 ## Tools:
 - [Classroom/Course Management](#classroomcourse-management)
